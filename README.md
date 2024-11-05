@@ -1,3 +1,6 @@
+# Fork #
+This is a fork of [Daniel Kote's Foreman2](https://github.com/DanielKote/Foreman2) for future contributions only.
+
 # Foreman 2.0 #
 ![1: Foreman 2.0](https://puu.sh/Im6D4/5a42f137e2.jpg)
 
